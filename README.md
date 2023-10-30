@@ -1,5 +1,6 @@
 # Openclassrooms - Data Science
-## Project 7
+## Project 7 (Archived)
+**Note**: The application was deployed using free services and hence is not available starting from *30th October 2023*. Please get in touch with me in order to see a working demo.
 
 ### Contents
 This repository contains all the code for training, testing and deploying a predictive model for "Prêt à dépenser" in order to predict if a client can or cannot repay his loan back with difficulties and it's probability.
